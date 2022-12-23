@@ -12,3 +12,5 @@ Classification of human activity based in sensor data:
 -> Data Partitioning (Train/Test, Train/Validation/Test, K-Fold)
 
 -> Classification (Knn, Neuronal Network)
+
+Final Grade 20/20
